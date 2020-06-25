@@ -145,7 +145,20 @@
           d: "Ellen Johnson Sirleaf"
         },
         correctAnswer: "d"
-      }
+      },
+      {
+        question: "There are how many Counties in Liberia?",
+        answers: {
+          a: "15",
+          b: "13",
+          c: "11",
+          d: "16"
+        },
+        correctAnswer: "a"
+      },
+
+
+
     ];
   
     // Kick things off

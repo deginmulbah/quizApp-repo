@@ -127,6 +127,7 @@
             },
             correctAnswer: "d"
         }
+        
     ];
     buildQuiz();
     // navigation
